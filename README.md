@@ -25,8 +25,8 @@
 
 ## GitHub
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gromit-Kim&show_icons=true&theme=radical" alt="Gromit-Kim" height="150" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gromit-Kim&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gromit-Kim" height=150" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=postbirds&show_icons=true&theme=radical" alt="Gromit-Kim" height="150" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=postbirds&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gromit-Kim" height=150" align="center"/>
 </div>
 
 
