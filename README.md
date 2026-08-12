@@ -23,10 +23,13 @@
 > <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
 > <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
-## GitHub
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=postbirds&show_icons=true&theme=radical" alt="postbirds" height="150" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=postbirds&show_icons=true&locale=en&layout=compact&theme=dark" alt="postbirds" height=150" align="center"/>
-</div>
+## Projects
+### Bert 기반 비속어 탐지 채팅 서비스
+[레포지토리 리드미를 꼭 읽어주세요.](https://github.com/postbirds/java-chat)
+
+### 커뮤니티 기능이 있는 게시판 프로젝트
+[레포지토리 리드미를 꼭 읽어주세요.](https://github.com/postbirds/java-board)
+
+
 
 
