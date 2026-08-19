@@ -27,6 +27,6 @@
 - [Bert 기반 비속어 탐지 채팅 서비스](https://github.com/postbirds/java-chat)
 - [커뮤니티 기능이 있는 게시판 프로젝트](https://github.com/postbirds/java-board)
 - [코멘토 백엔드 AI 실무](https://github.com/postbirds/comento-backend-work)
-
+- [Mini-Redis C++](https://github.com/postbirds/Mini-Redis)
 
 
