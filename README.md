@@ -10,6 +10,7 @@
 > <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+> <img src="https://img.shields.io/badge/C-FAD02C?style=flat-square&logo=c&logoColor=white"/>
 
 > #### Framework
 > <img src="http://img.shields.io/badge/Spring-COLOR?style=flat-square&logo=Spring&logoColor=white&color=6DB33F" />
